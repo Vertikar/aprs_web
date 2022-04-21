@@ -1,5 +1,5 @@
 ## Intro
-I recently discovered I could pick up some APRS packets with a really basic setup of just running ionosphere and a NoElec , and thought it'd be more useful to be able to view this in a website, rather than just looking at a stream of data in a console.
+I recently discovered I could pick up some APRS packets with a really basic setup of just running ionosphere and a NoElec NESDR Smart, and thought it'd be more useful to be able to view this in a website, rather than just looking at a stream of data in a console.
 
 ## Notes:
 This document is still in progress.
